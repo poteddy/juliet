@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Importer",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\src\\Importer\\Importer.csproj",
+            "launchConfigurationId": "TargetFramework=;Importer"
+     
+        }
+    ]
+}
